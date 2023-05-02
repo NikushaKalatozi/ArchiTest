@@ -95,4 +95,28 @@
         xsi:type="archimate:Location"
         href="Location_id-52c2aacce8b448b3ac07c0cecde7179b.xml#id-52c2aacce8b448b3ac07c0cecde7179b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0649872678454f96862a3929e48068f6">
+    <bounds
+        x="161"
+        y="303"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-9cc775cf44f34ac9bd4022d1a159ae11.xml#id-9cc775cf44f34ac9bd4022d1a159ae11"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4a679a066b79446b85765d3c0de5072f">
+    <bounds
+        x="122"
+        y="149"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_id-ceef08322c0a48bdb9865c4821ef4613.xml#id-ceef08322c0a48bdb9865c4821ef4613"/>
+  </children>
 </archimate:ArchimateDiagramModel>
