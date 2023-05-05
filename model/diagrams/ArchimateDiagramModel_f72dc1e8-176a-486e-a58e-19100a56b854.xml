@@ -119,4 +119,16 @@
         xsi:type="archimate:Location"
         href="Location_id-ceef08322c0a48bdb9865c4821ef4613.xml#id-ceef08322c0a48bdb9865c4821ef4613"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ef18be2c9f3412f97aa68bade473367">
+    <bounds
+        x="496"
+        y="350"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_id-93b0989abc8b4ff5ae4979e901ec37f0.xml#id-93b0989abc8b4ff5ae4979e901ec37f0"/>
+  </children>
 </archimate:ArchimateDiagramModel>
