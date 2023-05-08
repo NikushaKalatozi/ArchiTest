@@ -131,4 +131,16 @@
         xsi:type="archimate:CourseOfAction"
         href="CourseOfAction_id-93b0989abc8b4ff5ae4979e901ec37f0.xml#id-93b0989abc8b4ff5ae4979e901ec37f0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1ce50fb146574e6986f4314a273191f3">
+    <bounds
+        x="179"
+        y="448"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-f46e08ea9d6643d1bd19ecaecabfdfe6.xml#id-f46e08ea9d6643d1bd19ecaecabfdfe6"/>
+  </children>
 </archimate:ArchimateDiagramModel>
